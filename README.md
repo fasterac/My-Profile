@@ -14,6 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/BrickSweeper/03.png" alt="search page" width="350"/> <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/BrickSweeper/04.png" alt="search page" width="350"/> 
 <br>
+
 ## Field Capture
 เป็นเกมกระดานแบบ Turn base เมื่อเริ่มเกมบนกระดานจะเป็นสีขาวทั้งหมด ผู้เล่นจะต้องเลือกตัวละครที่มีสกิลพิเศษระหว่างเกม และผลัดกันเดินกินพื้นที่ไปเรื่อยๆ ให้เป็นสีของตนเองมากที่สุด เมื่อทุกพื้นที่มีสีครบแล้ว จะนับคะแนนเพื่อหาผู้ชนะ
  - สิ่งที่ใช้พัฒนา: C#, Allegro, Codeblock
@@ -23,6 +24,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/FieldCapture/01.png" alt="FieldCapture" width="800"/> <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/FieldCapture/02.png" alt="FieldCapture" width="800"/> 
 <br>
+
 ## Space Sheep
 เกมขับยานอวกาศสามมิติ ตัวเอกเป็นแกะที่มีภารกิจขับยานอวกาศรูปดาวออกจากโลก ยานดาวสามารถยิงศัตรู เร่งความเร็ว และหลบวัตถุขนมหวานที่เคลื่อนที่ไปมาในอวกาศ เมื่อสามารถยิงกำจัดบอสได้แล้วจะชนะเกม
  - สิ่งที่ใช้พัฒนา: Java, jMonkey Engine
@@ -33,6 +35,7 @@
 <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/SpaceSheep/01.png" alt="SpaceSheep" width="800"/> 
 <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/SpaceSheep/02.png" alt="SpaceSheep" width="800"/> 
  <br>
+
 ## Hera Adventure
 เกมสามมิติมุมมองบุคคลที่สาม ตัวนางเอกคือเทพเฮร่า ออกเดินทางเพื่อทวงคืนสามี(เทพซุส)คืน ระหว่างทางจะมีมอนสเตอร์วิ่งมาโจมตีเรา เฮร่าสามารถต่อสู้ได้โดยใช้ท่าโจมตีแบบคอมโบ(z) ท่าตบหน้า(x) หรือกระโดดสองจังหวะหลบ สามารถเดินเข้าจุดเซฟ เก็บของ สวมใส่ไอเทม และเดินชนเพื่อคุยได้ เมื่อเดินเข้าฉากสุดท้ายจะเจอบอส ต้องฆ่าเพื่อให้จบเกม
  - สิ่งที่ใช้พัฒนา: Unity C#, Blender
@@ -49,6 +52,7 @@
 
 <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/HeraAdventure/07.PNG" alt="HeraAdventure" width="800"/> 
 <br>
+
 ## Dinoku
 โปรเจคฝึกงานที่บริษัท Digitopolis เป็นเกม Online 2D Endless run ตัวผู้เล่นจะเป็นไดโนเสาร์ ใช้การเอียงโทรศัพท์และกดที่จอเพื่อกระโดดขึ้นชั้นถัดไปเรื่อยๆ เมื่อถึงชั้นที่เป็นเลข Fibonacci จะได้ Checkpoint และสีของตัวละครจะเปลี่ยนไป สามารถเปลี่ยนสีที่หน้าหลัก และกระโดดลงไปเพื่ออวดผู้เล่นคนอื่นชั้นล่างได้ 
  - สิ่งที่ใช้พัฒนา: Unity C#, Node.js
@@ -56,12 +60,13 @@
  - ช่วงที่พัฒนา: ฝึกงานหลังปิดเทอมของปี 3 ช่วงเดือนมิถุนายน - กรกฏาคม
 
 <br>
-<img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/Dinoku/00.PNG" alt="Dinoku" width="800"/> <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/Dinoku/01.PNG" alt="Dinoku" width="2800"/> 
+<img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/Dinoku/00.PNG" alt="Dinoku" width="800"/> <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/Dinoku/01.PNG" alt="Dinoku" width="800"/> 
 
 <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/Dinoku/02.PNG" alt="Dinoku" width="800"/> <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/Dinoku/03.PNG" alt="Dinoku" width="800"/> 
 
 <img src="https://raw.githubusercontent.com/fasterac/My-Profile/master/Dinoku/04.PNG" alt="Dinoku" width="800"/> 
 <br>
+
 ## AR Indoor Navigation System
 โปรเจคจบการศึกษาชั้นปีที่ 4 เป็นระบบนำทางภายในอาคารด้วยความเป็นจริงเสริมหรือ AR บนมือถือ Android ใช้ Library Vuforia ในการสร้างวัตถุAR
 ก่อนใช้งานจะต้องถ่ายรูปตามจุดต่างๆ ของอาคารก่อน จากนั้นนำภาพมาทำเป็นฐานข้อมูลบน Vuforia และกำหนดแผนที่บนเว็บของระบบนี้ สุดท้ายให้นำข้อมูลทั้งหมดเข้า Unity และสร้างเป็นไฟล์ .apk 
