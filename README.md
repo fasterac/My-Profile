@@ -71,9 +71,17 @@
 โปรเจคจบการศึกษาชั้นปีที่ 4 เป็นระบบนำทางภายในอาคารด้วยความเป็นจริงเสริมหรือ AR บนมือถือ Android ใช้ Library Vuforia ในการสร้างวัตถุAR
 ก่อนใช้งานจะต้องถ่ายรูปตามจุดต่างๆ ของอาคารก่อน จากนั้นนำภาพมาทำเป็นฐานข้อมูลบน Vuforia และกำหนดแผนที่บนเว็บของระบบนี้ สุดท้ายให้นำข้อมูลทั้งหมดเข้า Unity และสร้างเป็นไฟล์ .apk 
 เมื่อผู้ใช้เลือกปลายทาง และส่องกล้องไปยังภาพที่ได้ถ่ายเอาไว้ ระบบจะหาเส้นทางที่สั้นที่สุด และแสดงวัตถุ AR เป็นลูกศรสีแดงชี้นำทางไปเรื่อยๆทีละโหนดจนถึงปลายทาง
-คลิปการใช้งาน > https://www.youtube.com/watch?v=6XKbVVnPkyk
+
+<br>
+
+คลิปการใช้งาน > https://www.youtube.com/watch?v=6XKbVVnPkyk 
+<br>
 [![AR Indoor Navigation System Video](https://img.youtube.com/vi/6XKbVVnPkyk/0.jpg)](https://www.youtube.com/watch?v=6XKbVVnPkyk "AR Indoor Navigation System")
+
+<br>
+
 เปเปอร์วิชาการ > https://drive.google.com/file/d/1XpQZbrix6hKCR1xzTfTp9rGuaftdiytz/view?usp=sharing
+
  - สิ่งที่ใช้พัฒนา: Unity C#, Vuforia Library, Angular5
  - ส่วนที่ได้พัฒนา: การเขียนโปรแกรมเกือบทั้งหมด
  - ช่วงที่พัฒนา: ชั้นปีที่ 4 วิชา Senior Project
